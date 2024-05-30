@@ -1,0 +1,1 @@
+Niet vergeten een plugged folder te maken in .vim
